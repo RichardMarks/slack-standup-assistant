@@ -1,3 +1,3 @@
 # slack-standup-assistant
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slack-standup-assistant)
+https://unable-potato-9769.roast.io/
